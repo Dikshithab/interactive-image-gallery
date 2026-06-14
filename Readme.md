@@ -2,6 +2,14 @@
 
 An interactive and responsive image gallery built using **HTML, CSS, and JavaScript**. The project allows users to browse images across multiple categories with a modern, user-friendly interface.
 
+## 🌐 Live Demo
+
+https://dikshithab.github.io/interactive-image-gallery/
+
+## 💻 Source Code
+
+https://github.com/Dikshithab/interactive-image-gallery
+
 ---
 
 ## ✨ Features
